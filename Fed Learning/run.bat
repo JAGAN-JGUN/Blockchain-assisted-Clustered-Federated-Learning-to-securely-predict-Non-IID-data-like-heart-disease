@@ -1,0 +1,13 @@
+start cmd /k "python B1.py"
+start cmd /k "python B2.py"
+start cmd /k "python B3.py"
+start cmd /k "python B4.py"
+start cmd /k "python B5.py"
+start cmd /k "python B6.py"
+start cmd /k "python B7.py"
+start cmd /k "python B8.py"
+start cmd /k "python B9.py"
+start cmd /k "python B10.py"
+start cmd /k "python B11.py"
+timeout /t 5 /nobreak
+start cmd /k "python Server.py"
