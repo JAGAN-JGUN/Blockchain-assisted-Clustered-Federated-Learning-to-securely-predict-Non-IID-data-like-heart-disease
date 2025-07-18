@@ -2,8 +2,6 @@
 
 This repository contains the implementation for a Master's thesis project that explores a **privacy-preserving and robust machine learning framework** using **Clustered Federated Learning (CFL)** enhanced with **Blockchain-based storage**. It is tailored to address **non-IID healthcare data** for **heart disease prediction** using decentralized and secure mechanisms.
 
-> 📘 For full methodology, experimental setup, algorithmic details, and discussion, **please refer to the thesis PDF: [`Thesis.pdf`](./Plag4.pdf)** included in this repository.
-
 ---
 
 ## 🎯 Objective
