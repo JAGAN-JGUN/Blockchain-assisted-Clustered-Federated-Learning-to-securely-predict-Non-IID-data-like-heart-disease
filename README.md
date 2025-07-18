@@ -15,7 +15,7 @@ The system aims to overcome the limitations of:
 To solve this, the framework integrates:
 - **Agglomerative clustering** to group clients with similar data distributions
 - **Federated training within each cluster** (CFL)
-- **Blockchain smart contracts** to securely store model updates on an immutable ledger
+- **Blockchain smart contracts** to securely store model updates on an immutable ledger and communicate within nodes
 
 ---
 
